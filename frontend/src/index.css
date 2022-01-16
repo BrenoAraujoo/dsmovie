@@ -16,5 +16,5 @@ html, body {
 
 a, a:hover {
   text-decoration: none;
-  color: unset;
+  color: rgb(83, 83, 246)!important;
 }
