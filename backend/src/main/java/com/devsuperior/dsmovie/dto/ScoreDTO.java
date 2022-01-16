@@ -31,7 +31,6 @@ public class ScoreDTO {
 		this.email = email;
 	}
 
-
 	public Double getScore() {
 		return score;
 	}
